@@ -1,0 +1,98 @@
+body
+{
+	margin-bottom: 100px;
+	background-color: #fff;
+	font-size: 14px;
+}
+.pro
+{
+	background-image: url('../img/awaw.jpg');
+}
+.eve
+{
+	background-image: url('../img/ayos.jpg');
+	height: 50%;
+}
+.proheader
+{
+	font-family: verdana;
+}
+#proheader
+{
+	font-family: verdana;
+}
+#chuya
+{
+	margin-top: 5px;
+}
+.page-header
+{
+	margin-top: 0;
+	padding-top: 1px;
+	margin-bottom: 1px;
+}
+#regAccount p
+{
+	text-align: center;
+}
+#reghead h2
+{
+	text-align: center;
+}
+.page-header h3
+{
+	margin-top: -30px;
+}
+.page-header h4
+{
+	text-align: center;
+}
+.page-header h5
+{
+	text-align: center;
+}
+.panel-body
+{
+	padding-top: 0;
+	margin-top: 0;
+}
+.backImg
+{
+	margin-bottom: 15px;
+}
+.list-group-item
+{
+	margin-top: 40px;
+}
+.list-group-item ul li
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.pref
+{
+	color: Slategrey;
+}
+.panel
+{
+	margin-top: 10px;
+}
+.proport li
+{
+	font-family: verdana;
+	background-color: #FFF;
+}
+#conhead h2
+{
+	margin-left: 10px;
+}
+#conhead h3
+{
+	margin-left: 15px;
+}
+#conp
+{
+	margin-left: 30px;
+	margin-right: 30px;
+	font-family: verdana;
+}
